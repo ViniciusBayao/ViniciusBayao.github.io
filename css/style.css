@@ -74,6 +74,13 @@ section.descricao p{
     margin-top:40px;
 }
 
+.courses{
+    white-space: pre-line;
+    width: 790px;
+    color:#6c757d;
+    font-size:20px;
+}
+
 .icons-social{
     margin-top:20px;
 }
