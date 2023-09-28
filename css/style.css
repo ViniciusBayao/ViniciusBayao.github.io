@@ -50,25 +50,25 @@ span.name {
     font-size: 46px;
 }
 
-section.descricao h2{
+section.description h2{
     color:#343a40;
     font-size: 46px;
     margin-top: 50px;
 }
 
-section.descricao h2 > span,
-section.descricao h3 > span
+section.description h2 > span,
+section.description h3 > span
 {
     color:  #313a8e;
 }
 
-section.descricao h3{
+section.description h3{
     margin:15px 0;
     color: #6c757d;
     font-size: 26px;
 }
 
-section.descricao p{
+section.description p{
     color:#6c757d;
     font-size:20px;
     margin-top:40px;
